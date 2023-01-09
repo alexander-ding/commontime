@@ -18,9 +18,9 @@
     "camelcase": "^5.3.1",
     "date-and-time": "^0.13.1",
     "email-templates": "^7.0.5",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "firebase-function-tools": "^1.1.4",
-    "firebase-functions": "^3.6.1",
+    "firebase-functions": "^3.24.1",
     "glob": "^7.1.6",
     "googleapis": "^48.0.0",
     "nodemailer": "^6.4.6"
